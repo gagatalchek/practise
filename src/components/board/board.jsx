@@ -188,7 +188,7 @@ const Board = () => {
 
   return (
     <>
-      <div className="flex flex-col gap-[1rem]">
+      <div className="flex flex-col gap-[1rem] box">
         <div className=" flex justify-center items-center text-amber-400 font-[700] text-[2rem]">
           Score: {score}
         </div>
